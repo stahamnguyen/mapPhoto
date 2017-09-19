@@ -15,6 +15,7 @@ struct Screen {
 struct Identifier {
     static let ofDroppablePin = "droppablePin"
     static let ofCollectionViewCell = "cellId"
+    static let ofPopVC = "popVC"
 }
 
 let apiKey = "306c507759ede7389d6c8d2b624b4f08"
